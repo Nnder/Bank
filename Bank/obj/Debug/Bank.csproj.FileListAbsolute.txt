@@ -1,0 +1,6 @@
+/home/ross/RiderProjects/Bank/Bank/bin/Debug/Bank.exe
+/home/ross/RiderProjects/Bank/Bank/bin/Debug/Bank.pdb
+/home/ross/RiderProjects/Bank/Bank/obj/Debug/Bank.csproj.AssemblyReference.cache
+/home/ross/RiderProjects/Bank/Bank/obj/Debug/Bank.csproj.CoreCompileInputs.cache
+/home/ross/RiderProjects/Bank/Bank/obj/Debug/Bank.exe
+/home/ross/RiderProjects/Bank/Bank/obj/Debug/Bank.pdb
