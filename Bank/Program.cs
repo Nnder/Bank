@@ -19,7 +19,7 @@ namespace Bank
             client1.OpenDeposit(deposit1);
             client2.OpenDeposit(deposit2);
             
-            bank.AddClient(client1)s
+            bank.AddClient(client1);
             bank.AddClient(client2);
             
 
